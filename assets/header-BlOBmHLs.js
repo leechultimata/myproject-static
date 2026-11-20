@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-7vNEmt-1.js";var t=e();function n({text:e}){return(0,t.jsx)(`h1`,{className:`text-5xl font-bold`,children:e})}export{n as t};

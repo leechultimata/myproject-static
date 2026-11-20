@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";import{t as n}from"./lib-DVbeNvqH.js";import{t as r}from"./container-wUd-hrct.js";import{t as i}from"./header-BlOBmHLs.js";var a=t(),o=e(function(){return(0,a.jsxs)(r,{children:[(0,a.jsx)(i,{text:`ААААА`}),(0,a.jsx)(`br`,{}),(0,a.jsx)(n,{to:`/a/b`,children:`Перейти на B`})]})});export{o as default};

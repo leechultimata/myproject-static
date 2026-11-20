@@ -1,0 +1,1 @@
+import{o as e,t}from"./jsx-runtime-7vNEmt-1.js";var n=t(),r=e(function(){return(0,n.jsx)(`div`,{children:`Страница B`})});export{r as default};

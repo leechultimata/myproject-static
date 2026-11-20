@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-7vNEmt-1.js";var t=e();function n({children:e}){return(0,t.jsx)(`div`,{className:`max-w-[800px] mx-auto bg-amber-50 pt-5`,children:e})}export{n as t};
